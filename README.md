@@ -1,3 +1,11 @@
+## Round instructions
+1. Create a branch with named after you and your pair.
+2. Code
+   1. Set a timer for half the time and pick a person to be the driver
+   2. After half of the time switch and the other person becomes the driver
+   3. To switch just make a commit and push your current work and have the other person pull the branch
+3. After the round discuss with the team at large how you solved the problem.
+
 ## Install dependencies
 `bundle install`
 
